@@ -2,7 +2,11 @@
 
 ## Part 1 - Creating the classes
 
-Define classes for __Person__ and __Apartment__
+Create a directory named `models`.
+
+Define classes for __Person__ and __Apartment__.
+
+Create a file for each of the classes.
 
 A person should have the following attributes:
 
@@ -18,5 +22,3 @@ An apartment should have the following attributes:
 * num_beds
 * num_baths
 * renters (the person or persons living in the apartment)
-
-Okay, now take 20 minutes to first read-through and think about the methods & behavior outlined below.
