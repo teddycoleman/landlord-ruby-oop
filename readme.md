@@ -4,11 +4,11 @@
 
 Create a directory named `models`.
 
-Define classes for __Person__ and __Apartment__.
+Define classes for __Tenant__ and __Apartment__.
 
 Create a file for each of the classes.
 
-A person should have the following attributes:
+A tenant should have the following attributes:
 
 * name
 * age
@@ -21,4 +21,10 @@ An apartment should have the following attributes:
 * sqft
 * num_beds
 * num_baths
-* renters (the person or persons living in the apartment)
+* renters (the tenant or tenants living in the apartment)
+
+### And Then...
+
+Define an instance method `add_tenant` on the apartment class that allows you
+to add tenants to an existing apartment. Do not add the tenant to the apartment
+if the number of tenants would exceed the number of beds
