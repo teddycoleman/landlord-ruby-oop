@@ -1,6 +1,6 @@
-# Landlord Part 1
+# Landlord Ruby OOP
 
-## Part 1 - Creating the classes
+## Ruby OOP - Creating the classes
 
 Create a directory named `models`.
 
